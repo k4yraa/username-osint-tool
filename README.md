@@ -84,7 +84,7 @@ The user is responsible for any misuse.
 * Some platforms may block requests or return false positives
 * Detection logic is basic and can be improved
 
----
+--
 
 ## 🧩 Future Improvements
 
